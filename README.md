@@ -27,7 +27,7 @@ To filter out or modify response field based on various device When your code ba
 
 ##### About the Framework
 
-The Framework is based on java Reflection.
+This framework's implementation relies on the use of Java Reflection, which provides powerful capabilities for analyzing and manipulating classes and their components at runtime.
 
 #### How to use
 
